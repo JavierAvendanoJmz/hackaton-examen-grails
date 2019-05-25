@@ -9,6 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <asset:stylesheet src="application.css"/>
+    <asset:stylesheet src="all.min.css"/>
+    <asset:stylesheet src="sb-admin-2.min.css"/>
+    
+    <asset:javascript src="sb-admin-2.min.css"/>
 
     <g:layoutHead/>
 </head>
