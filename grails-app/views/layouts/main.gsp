@@ -12,8 +12,13 @@
     <asset:stylesheet src="all.min.css"/>
     <asset:stylesheet src="sb-admin-2.min.css"/>
     
-    <asset:javascript src="sb-admin-2.min.css"/>
-
+    <asset:javascript src="sb-admin-2.min.js"/>
+    <asset:javascript src="jquery.min.js"/>
+    <asset:javascript src="bootstrap.bundle.min.js"/>
+    <asset:javascript src="jquery.easing.min.js"/>
+    <asset:javascript src="Chart.min.js"/>
+    <asset:javascript src="chart-pie-demo.js"/>
+    <asset:javascript src="chart-area-demo.js"/>
     <g:layoutHead/>
 </head>
 <body>
