@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <asset:stylesheet src="application.css"/>
+<<<<<<< HEAD
     <asset:stylesheet src="all.min.css"/>
     <asset:stylesheet src="sb-admin-2.min.css"/>
     
@@ -19,6 +20,9 @@
     <asset:javascript src="Chart.min.js"/>
     <asset:javascript src="chart-pie-demo.js"/>
     <asset:javascript src="chart-area-demo.js"/>
+=======
+
+>>>>>>> parent of 07c6840... Merge branch 'master' of https://github.com/JavierAvendanoJmz/hackaton-examen-grails
     <g:layoutHead/>
 </head>
 <body>
